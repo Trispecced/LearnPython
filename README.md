@@ -1,2 +1,2 @@
 # LearnPython
-Follow along - coding in Python 
+Follow along as I learn to code in Python!
